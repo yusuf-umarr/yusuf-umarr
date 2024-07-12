@@ -7,7 +7,6 @@ Meet Yusuf, a skilled Software engineer with a passion for solving problems with
 - 💬 Ask me about #Software development
 - 📫 How to reach me: 
 linkedin :https://www.linkedin.com/in/yusuf-umar-859a14175/
-Twitter: http://twitter.com/YusufUma9
 Mail: omarjbt@gmail.com
 
 <!--
